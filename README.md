@@ -1,6 +1,6 @@
 # Primer ejemplo Servicio REST: Saludo con Springboot
 
-[![Build Status](https://travis-ci.com/uqbar-project/tp-recetas-2020-gr-XX.svg?branch=master)](https://travis-ci.com/uqbar-project/tp-recetas-2020-gr-XX)
+[![Build Status](https://travis-ci.com/algo3-unsam/tp-recetas-2020-gr-XX.svg?branch=master)](https://travis-ci.com/algo3-unsam/tp-recetas-2020-gr-XX)
 
 ## El proyecto
 
