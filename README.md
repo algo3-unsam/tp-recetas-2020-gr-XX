@@ -1,6 +1,8 @@
 # Primer ejemplo Servicio REST: Saludo con Springboot
 
-[![Build Status](https://travis-ci.com/algo3-unsam/tp-recetas-2020-gr-XX.svg?branch=master)](https://travis-ci.com/algo3-unsam/tp-recetas-2020-gr-XX)
+[![Build](https://github.com/algo3-unsam/tp-recetas-2020-gr-xx/actions/workflows/build.yml/badge.svg)](https://github.com/algo3-unsam/tp-recetas-2020-gr-xx/actions/workflows/build.yml) ![Coverage](./badges/XXXXXX/coverage.svg?test=2)
+
+Tenés que reemplazar `tp-recetas-2020-gr-xx` por el repositorio correspondiente.
 
 ## El proyecto
 
