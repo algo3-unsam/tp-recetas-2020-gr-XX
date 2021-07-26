@@ -1,6 +1,6 @@
 # Ejemplo base para TP Algo3
 
-[![Build](https://github.com/algo3-unsam/tp-recetas-2020-gr-xx/actions/workflows/build.yml/badge.svg)](https://github.com/algo3-unsam/tp-recetas-2020-gr-xx/actions/workflows/build.yml) ![Coverage](./badges/tp-recetas-2020-gr-xx/coverage.svg?test=2)
+[![Build](https://github.com/algo3-unsam/tp-recetas-2020-gr-xx/actions/workflows/build.yml/badge.svg)](https://github.com/algo3-unsam/tp-recetas-2020-gr-xx/actions/workflows/build.yml) ![Coverage](./.github/badges/jacoco.svg)
 
 Tenés que reemplazar `tp-recetas-2020-gr-xx` por el repositorio correspondiente.
 
