@@ -1,4 +1,4 @@
-# Primer ejemplo Servicio REST: Saludo con Springboot
+# Ejemplo base para TP Algo3
 
 [![Build](https://github.com/algo3-unsam/tp-recetas-2020-gr-xx/actions/workflows/build.yml/badge.svg)](https://github.com/algo3-unsam/tp-recetas-2020-gr-xx/actions/workflows/build.yml) ![Coverage](./badges/XXXXXX/coverage.svg?test=2)
 
