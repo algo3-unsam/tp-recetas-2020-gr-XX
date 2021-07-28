@@ -81,7 +81,7 @@
 			<scope>test</scope>
 		</dependency>
 
-		<!-- Mockito extention -->
+		<!-- Mockito extension -->
 		<dependency>
 			<groupId>org.mockito</groupId>
 			<artifactId>mockito-junit-jupiter</artifactId>
@@ -154,6 +154,7 @@
 				<version>0.8.7</version>
 				<configuration>
 					<excludes>
+						<exclude>**/Bootstrap.class</exclude>
 						<exclude>**/*Application.class</exclude>
 						<exclude>**/ServletInitializer.class</exclude>
 					</excludes>
